@@ -43,7 +43,7 @@ const Header = () => {
                   href="#"
                   class="text-gray-900 dark:text-white hover:underline"
                 >
-                  Бугалтерія
+                  Бухгалтерія
                 </a>
               </li>
               <li>

@@ -9,12 +9,11 @@ const BodyBlock = () => {
       <h1 className="text-5xl font-bold">Управління комунальною власністю</h1>
       <p className="py-6">Інформаційний портал установи</p>
       <div className="flex mt-6 gap-6 justify-center">
-      <button className="btn btn-outline btn-info">Бугалтерія</button>
+      <button className="btn btn-outline btn-info">Бухгалтерія</button>
       <button className="btn btn-outline btn-info">Юристи</button>
       <button className="btn btn-outline btn-info">Оренда</button>
       <button className="btn btn-outline btn-info">Приватизація</button>
       </div>
-
     </div>
   </div>
 </div>
