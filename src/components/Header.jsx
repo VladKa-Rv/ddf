@@ -1,5 +1,4 @@
 import React from "react";
-import { BuildingOfficeIcon } from "./svg1";
 
 const Header = () => {
   return (
@@ -13,7 +12,7 @@ const Header = () => {
               alt="Flowbite Logo"
             />
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Управління комунальною власністю
+              УКВ
             </span>
           </a>
           <div class="flex items-center">
@@ -44,7 +43,7 @@ const Header = () => {
                   href="#"
                   class="text-gray-900 dark:text-white hover:underline"
                 >
-                  Бухгалтерія
+                  Бугалтерія
                 </a>
               </li>
               <li>
@@ -52,7 +51,7 @@ const Header = () => {
                   href="#"
                   class="text-gray-900 dark:text-white hover:underline"
                 >
-                  Ореда
+                  Оренда
                 </a>
               </li>
               <li>
